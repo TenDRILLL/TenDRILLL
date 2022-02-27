@@ -1,4 +1,4 @@
-name: Cool snake game
+name: Readme Editor
 
 on:
   schedule:
@@ -30,3 +30,13 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  embed-code:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+    - uses: tokusumi/markdown-embed-code@main
+      with:
+        markdown: "README.md"
+        token: ${{ secrets.GITHUB_TOKEN }}
+        message: "synchronizing Readme"
+        silent: true

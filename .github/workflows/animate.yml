@@ -1,0 +1,23 @@
+name: Cool snake game
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" 
+
+  workflow_dispatch:
+
+  push:
+    branches:
+    - master
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk@master
+        with:
+          github_user_name: TenDRILLL
+          svg_out_path: dist/github-contribution-grid-snake.svg

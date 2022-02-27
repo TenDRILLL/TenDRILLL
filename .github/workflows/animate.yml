@@ -30,10 +30,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: embed-code
-        uses: tokusumi/markdown-embed-code@main
-        with:
-          markdown: "README.md"
-          token: ${{ secrets.GITHUB_TOKEN }}
-          message: "synchronizing Readme"
-          silent: true

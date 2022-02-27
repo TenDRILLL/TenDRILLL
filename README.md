@@ -5,4 +5,4 @@ I work on projects related to Javascript and Code Lyoko.
 if(User.name === "Ten") return console.log("It is I :D");
 ```
 
-!(Commit Snake Game)[https://raw.githubusercontent.com/TenDRILLL/TenDRILLL/output/github-contribution-grid-snake.svg]
+![Commit Snake Game](https://raw.githubusercontent.com/TenDRILLL/TenDRILLL/output/github-contribution-grid-snake.svg)

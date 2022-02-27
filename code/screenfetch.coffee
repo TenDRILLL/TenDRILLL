@@ -8,6 +8,8 @@ Location: Finland
 Languages: JavaScript
 Learning: C
 Hobbies: "Gaming, Music, Video Edits, Programming"
-Commits: >9000
-Stars: 1
+Commits: $commits
+TODO: Get total commit count.
+Stars: $stars
+TODO: Get amount of stars.
 Discord: Ten#0010

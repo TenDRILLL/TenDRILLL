@@ -7,7 +7,7 @@ you@GitHub:/users/TenDRILLL$ screenfetch
 ```coffee
 ten@GitHub/TenDRILLL
 -----------------------
-Name: Tenten
+Aliases: Ten, Tentti
 OS: Windows 10 Home
 Server: Ubuntu 20.04 focal
 Uptime: 960028200
@@ -24,6 +24,5 @@ Studying: Bachelor of Engineering, Information and Communication Technologies
 </div>
 
 
-**Graph of contributions in the last year**
+### Graph of contributions in the last year
 ![Commit Snake Game](https://raw.githubusercontent.com/TenDRILLL/TenDRILLL/output/github-contribution-grid-snake.svg)
-

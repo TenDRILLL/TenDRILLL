@@ -7,6 +7,7 @@ you@GitHub:/users/TenDRILLL$ screenfetch
 ```coffee
 ten@GitHub/TenDRILLL
 -----------------------
+Name: Tenten
 OS: Windows 10 Home
 Server: Ubuntu 20.04 focal
 Uptime: 960028200

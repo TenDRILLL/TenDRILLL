@@ -27,4 +27,6 @@ Studies: "Bachelor of Engineering, Information and Communication Technologies"
 ### Graph of contributions in the last year
 ![Commit Snake Game](https://raw.githubusercontent.com/TenDRILLL/TenDRILLL/output/github-contribution-grid-snake.svg)
 
+If you want to throw money at me, use [PayPal](https://paypal.me/tentti)
+
 <img src="https://komarev.com/ghpvc/?username=TenDRILLL" alt="https://github.com/TenDRILLL" />

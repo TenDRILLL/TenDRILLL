@@ -13,7 +13,7 @@ Server: Ubuntu 20.04 focal
 Uptime: 960028200
 Pronouns: She/Her
 Location: Finland
-Languages: JavaScript
+Languages: JavaScript, Typescript
 Learning: C
 Hobbies: "Gaming, Music, Video Edits, Programming"
 Discord: Ten#0010

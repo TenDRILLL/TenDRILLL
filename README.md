@@ -21,7 +21,7 @@ Music: "Happy Hardcore, Nightcore, Rock, Metal"
 Studies: "Bachelor of Engineering, Information and Communication Technologies"
 ```  
 ![](https://github-readme-stats.vercel.app/api?username=TenDRILLL&count_private=true&show_icons=true&hide_border=true&hide_title=true&hide_rank=true&theme=gruvbox)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://discord.com/users/484419124433518602"><img src="https://lanyard.cnrad.dev/api/484419124433518602" width="320"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://discord.com/users/484419124433518602"><img src="https://lanyard.cnrad.dev/api/484419124433518602" width="320"/></a>
 </div>
 
 

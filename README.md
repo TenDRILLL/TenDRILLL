@@ -8,6 +8,8 @@ you@GitHub:/users/TenDRILLL$ screenfetch
 ten@GitHub/TenDRILLL
 -----------------------
 Aliases: Ten, Tentti
+Work: "Security Engineer"
+Studies: "Bachelor of Engineering, Information and Communication Technologies"
 OS: Windows 10 Home
 Server: Ubuntu 20.04 focal
 Uptime: 960028200
@@ -18,7 +20,6 @@ Learning: C
 Hobbies: "Gaming, Music, Video Edits, Programming"
 Discord: Ten#0010
 Music: "Happy Hardcore, Nightcore, Rock, Metal"
-Studies: "Bachelor of Engineering, Information and Communication Technologies"
 ```  
 <a href="https://discord.com/users/484419124433518602"><img src="https://lanyard.cnrad.dev/api/484419124433518602?idleMessage=Surfing%20waves%20in%20cyberspace..." width="320"/></a>
 </div>

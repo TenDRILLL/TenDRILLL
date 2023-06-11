@@ -11,14 +11,14 @@ Aliases: Ten, Tentti
 Work: "Security Engineer"
 Studies: "Bachelor of Engineering, Information and Communication Technologies"
 OS: Windows 10 Home
-Server: Ubuntu 20.04 focal
+Server: Ubuntu
 Uptime: 960028200
 Pronouns: She/Her
 Location: Finland
 Languages: JavaScript, Typescript
 Learning: C
 Hobbies: "Gaming, Music, Video Edits, Programming"
-Discord: Ten#0010
+Discord: tentti (formerly Ten#0010)
 Music: "Happy Hardcore, Nightcore, Rock, Metal"
 ```  
 <a href="https://discord.com/users/484419124433518602"><img src="https://lanyard.cnrad.dev/api/484419124433518602?idleMessage=Surfing%20waves%20in%20cyberspace..." width="320"/></a>

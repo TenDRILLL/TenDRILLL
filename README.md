@@ -24,10 +24,6 @@ Music: "Happy Hardcore, Nightcore, Rock, Metal"
 <a href="https://discord.com/users/484419124433518602"><img src="https://lanyard.cnrad.dev/api/484419124433518602?idleMessage=Surfing%20waves%20in%20cyberspace..." width="320"/></a>
 </div>
 
-
-### Graph of contributions in the last year
-![Commit Snake Game](https://raw.githubusercontent.com/TenDRILLL/TenDRILLL/output/github-contribution-grid-snake.svg)
-
 If you want to throw money at me, use [PayPal](https://paypal.me/tentti)
 
 <img src="https://komarev.com/ghpvc/?username=TenDRILLL" alt="https://github.com/TenDRILLL" />

@@ -8,7 +8,7 @@ you@GitHub:/users/TenDRILLL$ screenfetch
 ten@GitHub/TenDRILLL
 -----------------------
 Aliases: Ten, Tentti
-Work: "Security Engineer"
+Work: "Cybersecurity Engineer"
 Studies: "Bachelor of Engineering, Information and Communication Technologies"
 OS: Windows 10 Home
 Server: Ubuntu

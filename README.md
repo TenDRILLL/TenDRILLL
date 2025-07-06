@@ -10,12 +10,12 @@ ten@GitHub/TenDRILLL
 Aliases: Ten, Tentti
 Work: "Cybersecurity Engineer"
 Studies: "Bachelor of Engineering, Information and Communication Technologies"
-OS: Windows 10 Home
-Server: Ubuntu
 Uptime: 960028200
 Pronouns: She/Her
 Location: Finland
-Languages: JavaScript, Typescript
+OS: Windows 11 Pro
+Server: Ubuntu
+Languages: JavaScript, TypeScript
 Learning: C
 Hobbies: "Gaming, Music, Video Edits, Programming"
 Discord: @tentti (formerly Ten#0010)
